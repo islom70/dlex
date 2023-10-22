@@ -1,0 +1,26 @@
+.secThree {
+    padding: 96px 0px;
+}
+.title_mini {
+    color: var(--indigo-500, #444BD3);
+    /* Overline / LG */
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 170%; /* 23.8px */
+    letter-spacing: 0.8px;
+    text-transform: uppercase;
+}
+.title {
+    color: var(--grayscale-900, #121127);
+    /* Heading / 2 */
+    font-family: Poppins;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 140%; /* 56px */
+}
+.box {
+    display: flex;
+}

@@ -1,0 +1,104 @@
+.secFour {
+
+}
+.one {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 60px 0px;
+    background: var(--black-white-white, #FFF);
+}
+.box_title {
+    padding-bottom: 8px;
+}
+.title {
+    color: var(--grayscale-900, #121127);
+    /* Heading / 3 */
+    font-family: Poppins;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 140%; /* 44.8px */
+}
+.price {
+    color: var(--indigo-500, #444BD3);
+    /* Heading / 3 */
+    font-family: Poppins;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 140%;
+}
+.text {
+    color: var(--grayscale-900-opacity-56, rgba(18, 17, 39, 0.56));
+    /* Body / lg */
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 180%; /* 32.4px */
+}
+.box_btn{
+
+}
+.btn{
+    border-radius: 8px;
+    background: var(--indigo-500, #444BD3); 
+    padding: 14px 32px;
+    color: var(--black-white-white, #FFF);
+    text-align: center;
+    /* Button / LG */
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    border: 0;
+}
+
+.two {
+    width: 100%;
+    background: var(--indigo-500, #444BD3);
+    text-align: center;
+    padding: 96px 0;
+}
+.title_two{
+    width: 620px;
+    color: var(--black-white-white, #FFF);
+    text-align: center;
+    /* Heading / 1 */
+    font-family: Poppins;
+    font-size: 44px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 140%; /* 61.6px */
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+.text_two{
+    width: 760px;
+    color: var(--white-opacity-56, rgba(255, 255, 255, 0.56));
+    text-align: center;
+    /* Body/xl */
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 180%; /* 36px */
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+.btn_two{
+    border-radius: 8px;
+    background: var(--black-white-white, #FFF);
+    padding: 14px 32px;
+    color: var(--indigo-500, #444BD3);
+    /* Button / LG */
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    border: 0;
+}
+
